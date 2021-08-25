@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mybasicreactapp/static/css/main.a617e044.chunk.css",
+    "main.js": "/mybasicreactapp/static/js/main.f0f4beb1.chunk.js",
+    "main.js.map": "/mybasicreactapp/static/js/main.f0f4beb1.chunk.js.map",
+    "runtime-main.js": "/mybasicreactapp/static/js/runtime-main.bcb6e265.js",
+    "runtime-main.js.map": "/mybasicreactapp/static/js/runtime-main.bcb6e265.js.map",
+    "static/js/2.c79fd12f.chunk.js": "/mybasicreactapp/static/js/2.c79fd12f.chunk.js",
+    "static/js/2.c79fd12f.chunk.js.map": "/mybasicreactapp/static/js/2.c79fd12f.chunk.js.map",
+    "static/js/3.0d59a3d5.chunk.js": "/mybasicreactapp/static/js/3.0d59a3d5.chunk.js",
+    "static/js/3.0d59a3d5.chunk.js.map": "/mybasicreactapp/static/js/3.0d59a3d5.chunk.js.map",
+    "index.html": "/mybasicreactapp/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/mybasicreactapp/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.c79fd12f.chunk.js.LICENSE.txt": "/mybasicreactapp/static/js/2.c79fd12f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcb6e265.js",
+    "static/js/2.c79fd12f.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.f0f4beb1.chunk.js"
+  ]
+}
